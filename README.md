@@ -12,5 +12,3 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=yuichi04&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=yuichi04&theme=dark)
 
  Last Updated on 10/02/2024 19:35:25 UTC
-<!--END_SECTION:waka-->
-</details>
