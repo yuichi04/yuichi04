@@ -12,7 +12,7 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,ts,react,next,gatsby,graphql,php,laravel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,ts,react,next,gatsby,graphql" />
 <br>
 
 
