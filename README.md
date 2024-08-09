@@ -11,8 +11,8 @@
 <br>
 
 
-## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,tailwindcss,js,ts,jquery,react,next,gatsby,graphql,golang" />
+## Skills?
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,tailwindcss,materialui,js,ts,react,next,gatsby,graphql,golang,ruby,rails,php,laravel,python,django" />
 <br>
 
 
