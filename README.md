@@ -18,6 +18,5 @@
 
 ## Activities
 <div align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=yuichi04&theme=vue-dark&layout=compact&show_icons=true" />
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuichi04&theme=vue-dark&layout=compact" />
 </div>
