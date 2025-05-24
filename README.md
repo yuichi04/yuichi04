@@ -12,7 +12,7 @@
 
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,typescript,go" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,typescript,nextjs,go" />
 <br>
 
 
